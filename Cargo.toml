@@ -1,0 +1,10 @@
+[package]
+name = "playground-clap"
+version = "0.1.0"
+description = "Mostly testing out Cargo"
+authors = ["Yoshua Wuyts <yoshuawuyts@gmail.com>"]
+
+[dependencies]
+clap = "2.29.2"
+structopt = "0.1.6"
+structopt-derive = "0.1.6"
