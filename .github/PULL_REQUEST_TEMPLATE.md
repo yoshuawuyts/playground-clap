@@ -1,5 +1,5 @@
 <!--
-Thanks for filing an issue 😄 ! Before you submit, please read the following:
+Thanks for creating a Pull Request 😄 ! Before you submit, please read the following:
 - Read our CONTRIBUTING.md file before submitting a patch.
 - By making a contribution, you agree to our Developer Certificate of Origin.
 -->
@@ -13,7 +13,6 @@ Thanks for filing an issue 😄 ! Before you submit, please read the following:
 - [ ] tests pass
 - [ ] tests and/or benchmarks are included
 - [ ] documentation is changed or added
-- [ ] commit message follows [commit guidelines](./CONTRIBUTING.md#commit-message-guidelines)
 
 ## Context
 <!-- Is this related to any GitHub issue(s)? -->
