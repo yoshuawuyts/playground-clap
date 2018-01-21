@@ -15,6 +15,6 @@ impl fmt::Display for Cli {
 }
 
 fn main() {
-  let foo = Cli::from_args();
-  println!("{}", foo);
+  let args = Cli::from_args();
+  println!("{}", args);
 }
